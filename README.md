@@ -1,6 +1,9 @@
-# New Project
+# Svelte + Snowpack starter
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+Just added the svelte and @snowpack/plugin-svelte dependencies and a
+simple App.svelte component.
 
 ## Available Scripts
 
